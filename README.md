@@ -16,6 +16,8 @@ Features
 
 ![chrome_CHuMmSjKqV](https://user-images.githubusercontent.com/43074374/139554126-7d5fd890-14ff-4b4d-a515-a82034c0a626.png)
   
+- About Page 
+    - The about page displays a nice discription about the history of Egypt.
 
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
@@ -37,7 +39,7 @@ HTML w3c validator passes
 
 CSS w3c validator passes 
  - No errors 
- 
+
 Accessibility score
 
 ![chrome_rgkn0dZn3a](https://user-images.githubusercontent.com/43074374/139554097-ea126ea2-cd07-4040-b4df-9b04dc593bff.png)
