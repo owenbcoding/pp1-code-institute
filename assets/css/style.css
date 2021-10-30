@@ -47,7 +47,7 @@ a {
 .hero-about {
     height: 65vh;
     width: 100%;
-    background-image: url("../images/river-nile.jpg");
+    background-image: url("../images/stars.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,6 +71,7 @@ a {
 
 #about-text {
     padding-top: 20px;
+    color: yellow;
   }
 
 #contact-text {
