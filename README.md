@@ -1,6 +1,6 @@
 #Egypt
 
-Egypt site is a site that displays information about Egypts histor, the site is designed for any one that is interested in learning about Egypts history.
+Egypt site is a site that displays information about Egypts history, the site is designed for any one that is interested in learning about Egypts history.
 
 ![chrome_eEhdvxxyU8](https://user-images.githubusercontent.com/43074374/139554079-f299a2d0-7da4-4bb6-a233-4122c719b034.jpg)
 
