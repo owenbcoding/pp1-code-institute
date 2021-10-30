@@ -151,21 +151,15 @@ footer {
     }
     footer { 
         width: 65%;
-        height: 1200px;
         margin: 0 auto;
     }
-  } 
-  
-  /* Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (max-width: 992px) {
-    .hero-image {background-size: cover;}
   } 
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (max-width: 1200px) {
     .hero-image {background-size: cover;}
     .gallery-text {
-        padding: 0px;
+        padding: 15px;
         padding-bottom: 30px;
     }
 
