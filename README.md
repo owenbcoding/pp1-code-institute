@@ -19,6 +19,13 @@ Features
 - About Page 
     - The about page displays a nice discription about the history of Egypt.
 
+![chrome_ENfzyVJru1](https://user-images.githubusercontent.com/43074374/139559307-908d68a0-94b0-4028-ac46-4cc23da3cfa0.jpg)
+
+- Contact Page 
+    - The contact page allows a user to input their Info to be contacted.
+
+![chrome_oE9bczx9Vq](https://user-images.githubusercontent.com/43074374/139559347-e8fde66d-2999-418e-9151-ef7e3c1e02f4.png)
+
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
 
@@ -41,6 +48,5 @@ CSS w3c validator passes
  - No errors 
 
 Accessibility score
-<<<<<<< HEAD
 
 ![chrome_rgkn0dZn3a](https://user-images.githubusercontent.com/43074374/139554097-ea126ea2-cd07-4040-b4df-9b04dc593bff.png)
