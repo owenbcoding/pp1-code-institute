@@ -88,12 +88,12 @@ main {
 
 #about {
     padding-bottom: 40px;
-    max-width: 50%;
+    max-width: 100%;
     margin: auto;
 }
 
 h1 {
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
 }
 
 /* Style for the section */
@@ -125,41 +125,55 @@ p {
 }
 
 .gallery-text {
-    padding-top: 20px;
-}
-
-figcaption {
-    padding-bottom: 20px;
+    padding: 20px;
 }
 
 footer { 
-     background-color: #ffb429;
+    background-color: #ffb429;
     text-align: center;
     padding-bottom: 40px;
     max-height: 50px;
+    position: relative;
+    bottom: 0;
 }
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .hero-image {background-size: cover;}
-  }
-  
-  /* Small devices (portrait tablets and large phones, 600px and up) */
-  @media only screen and (min-width: 600px) {
-    .hero-image {background-size: cover;}
-  }
   
   /* Medium devices (landscape tablets, 768px and up) */
-  @media only screen and (min-width: 768px) {
+  @media only screen and (max-width: 768px) {
     .hero-image {background-size: cover;}
+    .gallery {
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+        width: 80%;
+        padding-bottom: 20px;
+    }
+    footer { 
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
   } 
   
   /* Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
+  @media only screen and (max-width: 992px) {
     .hero-image {background-size: cover;}
   } 
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
+  @media only screen and (max-width: 1200px) {
     .hero-image {background-size: cover;}
+    .gallery-text {
+        padding: 0px;
+        padding-bottom: 30px;
+    }
+
+    .main-text {
+        width: 90%;
+    }
+    
+    footer { 
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
   }
