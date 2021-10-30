@@ -36,7 +36,7 @@ a {
 /* Style for the hero image */
 .hero-image {
   height: 65vh;
-  width: 100vw;
+  width: 100%;
   background-image: url("../images/pyramids.jpg");
   background-position: center center;
   background-repeat: no-repeat;
@@ -44,16 +44,36 @@ a {
   text-align: center;
 }
 
+.hero-about {
+    height: 65vh;
+    width: 100%;
+    background-image: url("../images/river-nile.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
 #hero-text {
-  padding-top: 40px;
+  padding-top: 20px;
   color: yellow;
 }
+
+#about-text {
+    padding-top: 20px;
+  }
 
 /* Style for the main element */
 main {
   text-align: center;
   padding-top: 5rem;
   background-color: #ffb429;
+}
+
+#about {
+    padding-bottom: 40px;
+    max-width: 50%;
+    margin: auto;
 }
 
 h1 {
@@ -88,10 +108,19 @@ p {
     object-fit: cover;
 }
 
+.gallery-text {
+    padding-top: 20px;
+}
+
+figcaption {
+    padding-bottom: 20px;
+}
+
 footer { 
      background-color: #ffb429;
     text-align: center;
     padding-bottom: 40px;
+    max-height: 50px;
 }
 
 /* Extra small devices (phones, 600px and down) */
