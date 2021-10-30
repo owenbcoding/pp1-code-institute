@@ -2,7 +2,7 @@ Egypt
 
 Egypt site is a site that displays information about Egypts history, the site is designed for any one that is interested in learning about Egypts history.
 
-![chrome_oE9bczx9Vq](https://user-images.githubusercontent.com/43074374/139559347-e8fde66d-2999-418e-9151-ef7e3c1e02f4.png)
+![chrome_ZpSyhOGaAI](https://user-images.githubusercontent.com/43074374/139560568-8b8dd3d2-4070-4bb0-9add-21ff5f842ec5.png)
 
 
 ![chrome_eEhdvxxyU8](https://user-images.githubusercontent.com/43074374/139554079-f299a2d0-7da4-4bb6-a233-4122c719b034.jpg)
