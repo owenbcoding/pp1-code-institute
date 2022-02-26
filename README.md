@@ -26,8 +26,6 @@ Existing Features
 - About Page 
     - The about page displays a nice discription about the history of Egypt.
 
-![chrome_ENfzyVJru1](https://user-images.githubusercontent.com/43074374/139559307-908d68a0-94b0-4028-ac46-4cc23da3cfa0.jpg)
-
 - Contact Page 
     - The contact page thanks the user.
 
