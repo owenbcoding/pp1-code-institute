@@ -17,11 +17,10 @@ Existing Features
 
 - About Section
   - This is just a short paragraph explaining to the user about traveling to Egypt
+<img width="860" alt="Screenshot 2022-02-26 at 15 13 01" src="https://user-images.githubusercontent.com/43074374/155848303-18598cc5-1f17-4a4a-92e6-8d0582f54c27.png">
 
 - Gallery 
-    - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
-
-![chrome_CHuMmSjKqV](https://user-images.githubusercontent.com/43074374/139554126-7d5fd890-14ff-4b4d-a515-a82034c0a626.png)
+  - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
   
 - About Page 
     - The about page displays a nice discription about the history of Egypt.
