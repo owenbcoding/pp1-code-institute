@@ -39,6 +39,10 @@ a:hover{
   text-decoration: underline;
 }
 
+a:active { 
+  background-color: yellow;
+}
+
 /* Style for the hero image */
 .hero-image {
   height: 65vh;
@@ -76,12 +80,12 @@ a:hover{
 }
 
 #about-text {
-    padding-top: 20px;
+    padding-top: 300px;
     color: yellow;
   }
 
 #contact-text {
-    padding-top: 20px;
+    padding-top: 100px;
     color: yellow;
   }
 
@@ -134,11 +138,22 @@ h2 {
     margin-right: auto;
 }
 
-form {
+.form {
   font-size: 20px;
+  box-sizing: border-box;
+  height: 500px;
+  padding: 20px;
+  width: 320px;
+  color: black;
+  margin: auto;
 }
 
-.myButton {
+.input { 
+  padding: 10px;
+  border-radius: 20px;
+}
+
+ .myButton {
 	box-shadow:inset 0px 1px 3px 0px #91b8b3;
 	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
 	background-color:#768d87;
@@ -153,6 +168,8 @@ form {
 	padding:11px 23px;
 	text-decoration:none;
 	text-shadow:0px -1px 0px #2b665e;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
@@ -162,7 +179,6 @@ form {
 	position:relative;
 	top:1px;
 }
-
 
 footer { 
     background-color: #ffb429;
