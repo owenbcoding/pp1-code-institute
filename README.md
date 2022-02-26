@@ -17,19 +17,19 @@ Existing Features
 
 - Info Section index.html
   - This is just a short paragraph explaining to the user about traveling to Egypt
-  <img width="860" alt="Screenshot 2022-02-26 at 15 13 01" src="https://user-images.githubusercontent.com/43074374/155848303-18598cc5-1f17-4a4a-92e6-8d0582f54c27.png">
+   <img width="860" alt="Screenshot 2022-02-26 at 15 13 01" src="https://user-images.githubusercontent.com/43074374/155848303-18598cc5-1f17-4a4a-92e6-8d0582f54c27.png">
 
 - Gallery 
   - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
-![image](https://user-images.githubusercontent.com/43074374/155859165-a7956792-c005-4e8a-af8e-4a5fb6ae0783.png)
+  ![image](https://user-images.githubusercontent.com/43074374/155859165-a7956792-c005-4e8a-af8e-4a5fb6ae0783.png)
   
 - About Page About.html
     - The about page displays a nice discription about the history of Egypt.
-    <img width="890" alt="Screenshot 2022-02-26 at 15 20 40" src="https://user-images.githubusercontent.com/43074374/155848623-c93e2ed1-60a9-446c-b514-3b7555cdb06f.png">
+   <img width="890" alt="Screenshot 2022-02-26 at 15 20 40" src="https://user-images.githubusercontent.com/43074374/155848623-c93e2ed1-60a9-446c-b514-3b7555cdb06f.png">
 
 - Contact Page contact.html
     - This is where the user can contact Egypt for more info.
-    <img width="529" alt="Screenshot 2022-02-26 at 15 24 08" src="https://user-images.githubusercontent.com/43074374/155848748-4945c5dc-da3f-425d-a1c8-1d0356a7d944.png">
+   <img width="529" alt="Screenshot 2022-02-26 at 15 24 08" src="https://user-images.githubusercontent.com/43074374/155848748-4945c5dc-da3f-425d-a1c8-1d0356a7d944.png">
 
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
