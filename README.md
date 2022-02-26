@@ -9,7 +9,8 @@ Existing Features
  - Navigation index.html
    - Is Featured at the top of the page above the hero image.
    - The nav bar Links to the index page home page and contact page.
- 
+ ![image](https://user-images.githubusercontent.com/43074374/155858671-ac36927a-61fd-475a-8a92-b277375e4d05.png)
+
  - Hero Image index.html
    - This is Just a nice image that shows the user what Egypt looks like
 
