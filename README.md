@@ -58,4 +58,5 @@ Accessibility score
  
 Deployment 
    - For Deployment I used Github Pages which is located in the settings at the top of the repo then you got the left and and side menu where it says pages and you select the main root 
+<img width="978" alt="Screenshot 2022-02-26 at 15 29 20" src="https://user-images.githubusercontent.com/43074374/155848882-0312ebb5-0f17-4454-ac55-1cbc69fb15c8.png">
 
