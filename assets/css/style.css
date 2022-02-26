@@ -112,10 +112,11 @@ h2 {
 }
 
 p {
-  font-size: 1.5rem;
+  font-size: 20px;
 }
 
 /* Style for the Gallery */
+
 .gallery {
     display: flex;
 }
@@ -163,10 +164,9 @@ form {
 footer { 
     background-color: #ffb429;
     text-align: center;
-    padding-bottom: 40px;
-    max-height: 50px;
-    position: relative;
-    bottom: 0;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    font-size: 1rem;
 }
   
   /* Medium devices (landscape tablets, 768px and up) */
@@ -178,6 +178,9 @@ footer {
         margin: 0 auto;
         width: 80%;
         padding-bottom: 20px;
+    }
+    p {
+      font-size: 20px;
     }
     footer { 
         width: 100%;
@@ -196,7 +199,6 @@ footer {
     .main-text {
         width: 90%;
     }
-    
     footer { 
         width: 100%;
         margin: 0 auto;
