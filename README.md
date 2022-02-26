@@ -15,7 +15,7 @@ Existing Features
    - This is Just a nice image that shows the user what Egypt looks like
 <img width="1387" alt="Screenshot 2022-02-26 at 14 58 17" src="https://user-images.githubusercontent.com/43074374/155847836-5c7f2a2d-2100-4d0f-b02f-edf4d65acbd5.png">
 
-- About Section
+- Info Section
   - This is just a short paragraph explaining to the user about traveling to Egypt
 <img width="860" alt="Screenshot 2022-02-26 at 15 13 01" src="https://user-images.githubusercontent.com/43074374/155848303-18598cc5-1f17-4a4a-92e6-8d0582f54c27.png">
 
