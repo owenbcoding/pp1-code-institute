@@ -13,6 +13,7 @@ Existing Features
 
  - Hero Image index.html
    - This is Just a nice image that shows the user what Egypt looks like
+![image](https://user-images.githubusercontent.com/43074374/155858690-bd2ffff7-f7eb-4eb8-a30f-5ceea0f4411b.png)
 
 - Info Section index.html
   - This is just a short paragraph explaining to the user about traveling to Egypt
