@@ -9,7 +9,7 @@ Existing Features
  - Navigation
    - Is Featured at the top of the page above the hero image.
    - The nav bar Links to the index page home page and contact page.
-
+ <img width="876" alt="Screenshot 2022-02-26 at 14 53 49" src="https://user-images.githubusercontent.com/43074374/155847600-80467b75-af15-438c-af7d-ea4ab01e2704.png">
 - Gallery 
     - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
 
