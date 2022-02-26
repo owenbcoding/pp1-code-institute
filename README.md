@@ -25,10 +25,11 @@ Existing Features
   
 - About Page About.html
     - The about page displays a nice discription about the history of Egypt.
- <img width="890" alt="Screenshot 2022-02-26 at 15 20 40" src="https://user-images.githubusercontent.com/43074374/155848623-c93e2ed1-60a9-446c-b514-3b7555cdb06f.png">
+<img width="890" alt="Screenshot 2022-02-26 at 15 20 40" src="https://user-images.githubusercontent.com/43074374/155848623-c93e2ed1-60a9-446c-b514-3b7555cdb06f.png">
 
 - Contact Page contact.html
     - This is where the user can contact Egypt for more info.
+<img width="529" alt="Screenshot 2022-02-26 at 15 24 08" src="https://user-images.githubusercontent.com/43074374/155848748-4945c5dc-da3f-425d-a1c8-1d0356a7d944.png">
 
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
@@ -54,3 +55,7 @@ CSS w3c validator passes
 Accessibility score
 
 ![chrome_rgkn0dZn3a](https://user-images.githubusercontent.com/43074374/139554097-ea126ea2-cd07-4040-b4df-9b04dc593bff.png)
+ 
+Deployment 
+   - For Deployment I used Github Pages which is located in the settings at the top of the repo then you got the left and and side menu where it says pages and you select the main root 
+
