@@ -29,7 +29,6 @@ Existing Features
 
 - Contact Page contact.html
     - This is where the user can contact Egypt for more info.
-     <img width="529" alt="Screenshot 2022-02-26 at 15 24 08" src="https://user-images.githubusercontent.com/43074374/155848748-4945c5dc-da3f-425d-a1c8-1d0356a7d944.png">
 
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
