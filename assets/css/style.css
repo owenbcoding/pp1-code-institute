@@ -35,6 +35,10 @@ a {
   font-size: 1.5rem;
 }
 
+a:hover { 
+  text-decoration: underline;
+}
+
 /* Style for the hero image */
 .hero-image {
   height: 65vh;
@@ -111,10 +115,6 @@ h2 {
   padding-bottom: 40px;
 }
 
-p {
-  font-size: 20px;
-}
-
 /* Style for the Gallery */
 
 .gallery {
@@ -166,7 +166,6 @@ footer {
     text-align: center;
     padding-top: 60px;
     padding-bottom: 50px;
-    font-size: 1rem;
 }
   
   /* Medium devices (landscape tablets, 768px and up) */
@@ -178,9 +177,6 @@ footer {
         margin: 0 auto;
         width: 80%;
         padding-bottom: 20px;
-    }
-    p {
-      font-size: 20px;
     }
     footer { 
         width: 100%;
