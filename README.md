@@ -1,17 +1,14 @@
 Egypt
-Site link https://eoghankbdev.github.io/pp1-code-institute/
 
-Egypt site is a site that displays information about Egypts history, the site is designed for any one that is interested in learning about Egypts history.
+Egypt site is a site that displays information about Egypts history, It is a site that is for anyone who is looking to go to egypt and dosnt know much about it, they will also be able to look at various destinations to visit while in egypt.
 
 ![chrome_ZpSyhOGaAI](https://user-images.githubusercontent.com/43074374/139560568-8b8dd3d2-4070-4bb0-9add-21ff5f842ec5.png)
 
 Features 
+Existing Features
  - Navigation
    - Is Featured at the top of the page above the hero image.
    - The nav bar Links to the index page home page and contact page.
-
-![chrome_eEhdvxxyU8](https://user-images.githubusercontent.com/43074374/139554079-f299a2d0-7da4-4bb6-a233-4122c719b034.jpg)
-
 
 - Gallery 
     - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
