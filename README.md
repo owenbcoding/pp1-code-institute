@@ -21,6 +21,7 @@ Existing Features
 
 - Gallery 
   - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
+<img width="1679" alt="Screenshot 2022-02-26 at 15 17 06" src="https://user-images.githubusercontent.com/43074374/155848470-79420f33-d938-4153-b236-0baeb72360df.png">
   
 - About Page 
     - The about page displays a nice discription about the history of Egypt.
