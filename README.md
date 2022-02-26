@@ -25,9 +25,10 @@ Existing Features
   
 - About Page 
     - The about page displays a nice discription about the history of Egypt.
+ <img width="890" alt="Screenshot 2022-02-26 at 15 20 40" src="https://user-images.githubusercontent.com/43074374/155848623-c93e2ed1-60a9-446c-b514-3b7555cdb06f.png">
 
 - Contact Page 
-    - The contact page thanks the user.
+    - This is where the user can contact Egypt for more info.
 
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
