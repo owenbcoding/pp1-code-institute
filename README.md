@@ -21,7 +21,7 @@ Existing Features
 
 - Gallery 
   - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
-<img width="1679" alt="Screenshot 2022-02-26 at 15 17 06" src="https://user-images.githubusercontent.com/43074374/155848470-79420f33-d938-4153-b236-0baeb72360df.png">
+![image](https://user-images.githubusercontent.com/43074374/155859165-a7956792-c005-4e8a-af8e-4a5fb6ae0783.png)
   
 - About Page About.html
     - The about page displays a nice discription about the history of Egypt.
@@ -40,7 +40,7 @@ Testing
 
 Bugs
 
- - the only bug that I was able to find when I was testing was getting the     footer on the home page to stick to the bottom but I managed to fix it!.
+ - the only bug that I was able to find when I was testing was getting the footer on the home page to stick to the bottom but I managed to fix it!.
 
 ![chrome_r54IOPSmBG](https://user-images.githubusercontent.com/43074374/139558708-8ed3ff84-5777-4f79-8b38-77c335efe6c6.png)
 
