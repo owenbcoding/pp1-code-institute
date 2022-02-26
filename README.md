@@ -12,11 +12,11 @@ Existing Features
  <img width="876" alt="Screenshot 2022-02-26 at 14 53 49" src="https://user-images.githubusercontent.com/43074374/155847600-80467b75-af15-438c-af7d-ea4ab01e2704.png">
  
  - Hero Image 
-  - This is Just a nice image that shows the user what Egypt looks like
+   - This is Just a nice image that shows the user what Egypt looks like
 <img width="1387" alt="Screenshot 2022-02-26 at 14 58 17" src="https://user-images.githubusercontent.com/43074374/155847836-5c7f2a2d-2100-4d0f-b02f-edf4d65acbd5.png">
 
 - About Section
- - This is just a short paragraph explaining to the user about traveling to Egypt
+  - This is just a short paragraph explaining to the user about traveling to Egypt
 
 - Gallery 
     - This is featured just bellow the hero image displaying images of places that you can visit in Egypt.
