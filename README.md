@@ -29,6 +29,11 @@ Existing Features
 
 - Contact Page contact.html
     - This is where the user can contact Egypt for more info.
+      ![image](https://user-images.githubusercontent.com/43074374/155863001-a1e9abe9-b4f5-4def-a588-7a06878b0cb0.png)
+     
+- Hidden Pages form-feedback.html
+    - Form feedback page is a hidden page after you have entered your contact details.
+      
 
 Testing
  - I have tested the website in chrome, brave and firefox all works fine.
