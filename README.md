@@ -56,7 +56,7 @@ HTML w3c validator passes
 CSS w3c validator passes 
  - No errors no errors were found
 
-Accessibility score
+Accessibility score Testing using Light house
 
 ![chrome_rgkn0dZn3a](https://user-images.githubusercontent.com/43074374/139554097-ea126ea2-cd07-4040-b4df-9b04dc593bff.png)
  
