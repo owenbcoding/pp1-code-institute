@@ -61,7 +61,7 @@ Accessibility score Testing using Light house
 ![chrome_rgkn0dZn3a](https://user-images.githubusercontent.com/43074374/139554097-ea126ea2-cd07-4040-b4df-9b04dc593bff.png)
 
 Future development 
- - For future development and a updated version of the site please visit this repo = 
+ - For future development and a updated version of the site I will be improving its look and style to be more professional
  
 Deployment 
 - The site was deployed to GitHub pages
